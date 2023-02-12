@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riyu43
 - 👀 I’m interested in  creating a better by exploring powerfull technology around us
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently learning python full stack web development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
