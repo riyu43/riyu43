@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @riyu43
 - 👀 I’m interested in  creating a better by exploring powerfull technology around us
 - 🌱 I’m currently learning python full stack web development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 Reach me on https://www.linkedin.com/in/riyad-mahamood-105358248/
 
 <!---
 riyu43/riyu43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
